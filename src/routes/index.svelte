@@ -1,5 +1,9 @@
 <script></script>
 
-<svelte:head></svelte:head>
+<svelte:head>
+    <title>Home</title>
+</svelte:head>
 
-<main></main>
+<header class=" flex justify-center flex-auto font-bold text-center bg-gray-400">
+    <h1 class="text-2xl text-blue-800">Welcome</h1>
+</header>
