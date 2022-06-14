@@ -1,6 +1,8 @@
 <script></script>
 
 <svelte:head>
+        <meta name="title" content="Breakfeast | Locations">
+<meta name="description" content="Our store locations">
     <title>Locations</title>
 </svelte:head>
 
