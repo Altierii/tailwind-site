@@ -3,6 +3,8 @@
 </script>
 
 <svelte:head>
+    <meta name="title" content="Breakfeast | Main">
+<meta name="description" content="24/7 Breakfeast!">
     <title>Home</title>
 </svelte:head>
 
