@@ -1,6 +1,8 @@
 <script></script>
 
 <svelte:head>
+        <meta name="title" content="Breakfeast | Menu">
+<meta name="description" content="Look through all our products on the menu!">
     <title>Menu</title>
 </svelte:head>
 
